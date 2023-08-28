@@ -8,7 +8,7 @@ The aim of Datathon is to provide an opportunity for students who are entering d
 as well as to allow industry professionals to test their knowledge. Within the BTK Academy, 
 content to support our Datathon activity as well as all other information about data science is already available free of charge.
 
-This competition aims to accurately predict the class of each sample data. The metric that will be used to measure the success of the competition will be accuracy.
+This competition aims to accurately predict the class of each sample data. The metric that is used to measure the success of the competition is accuracy.
 
 Accuracy is a metric that measures how successfully a model can predict real-world data. It is calculated as the ratio of the number of correctly classified samples to the total number of samples.
 
