@@ -12,8 +12,6 @@ This competition aims to accurately predict the class of each sample data. The m
 
 Accuracy is a metric that measures how successfully a model can predict real-world data. It is calculated as the ratio of the number of correctly classified samples to the total number of samples.
 
-I gained with %96.141 public %95.020 private scores in kaggle
-
 # Dataset Description
 File Descriptions
 
