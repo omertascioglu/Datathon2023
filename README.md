@@ -1,4 +1,5 @@
-# Datathon2023 = Datathon 2023, the second stage of the Data Marathon, which we organised with Google and the Entrepreneurship Foundation, 
+# Datathon2023
+Datathon 2023, the second stage of the Data Marathon, which we organised with Google and the Entrepreneurship Foundation, 
 is open to everyone who is dedicated to data science in Turkey and will have the chance to put what they have learned into practice!
 
 BTK Academy has been offering various trainings on topics such as statistics, data science, data analysis, big data, machine learning,
