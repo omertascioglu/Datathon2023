@@ -1,4 +1,4 @@
-# Datathon 2023 (BTK Akademi, Google, Girişimcilik Vakfı) in Kaggle
+# Datathon 2023 (BTK Akademi, Google, Turkish Entrepreneurship Foundation (GIRVAK) ) in Kaggle
 I gained with %96.141 public %95.020 private scores in kaggle
 
 Datathon 2023, the second stage of the Data Marathon, which organised with Google and the Entrepreneurship Foundation, 
